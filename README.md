@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanhaviValte.
 - 👀 I’m interested in WebDevelopment.
 - 🌱 I’m currently learning C,C++ and Java Programming Languages
-- 📫 To reach me ...  janhavisvalte@gmail.com
+- 📫 Mail ID: janhavisvalte@gmail.com
 
 <!---
 JanhaviValte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
